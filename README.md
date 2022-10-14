@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eugene Juma</h1>
-<h3 align="center">A passionate program developer from The Republic of Kenya</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-git-user" alt="n-git-user" /></a> </p>
+<h1 align="center">Hi 👋, I'm Juma</h1>
+<h3 align="center">A passionate program developer from Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/https://m.twitter.com/eugenejuma1/" target="blank"><img src="https://img.shields.io/twitter/follow/https://m.twitter.com/eugenejuma1/?logo=twitter&style=for-the-badge" alt="https://m.twitter.com/eugenejuma1/" /></a> </p>
 
@@ -9,9 +7,9 @@
 
 - 🌱 I’m currently learning **C programming language and Diploma In ICT**
 
-- 👯 I’m looking to collaborate on [Greenhouse Temperature sensor](https://github.com/n-git-user)
+- 👯 I’m looking to collaborate on [Greenhouse Temperature Sensor](https://github.com/n-git-user)
 
-- 🤝 I’m looking for help with [Greenhouse Temperature sensor](https://github.com/n-git-user)
+- 🤝 I’m looking for help with [building a Greenhouse Temperature Sensor ](https://github.com/n-git-user)
 
 - 👨‍💻 All of my projects are available at [https://github.com/n-git-user](https://github.com/n-git-user)
 
